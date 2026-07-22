@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nidhidhameliya&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS)](https://github.com/nidhidhameliya)
 [![GitHub followers](https://img.shields.io/github/followers/nidhidhameliya?label=Followers&style=for-the-badge&color=purple&labelColor=2d2d2d)](https://github.com/nidhidhameliya?tab=followers)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nidhidhameliya&label=Public%20Repos&query=$.public_repos&color=blue&style=for-the-badge)](https://github.com/nidhidhameliya?tab=repositories)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnidhidhameliya&label=Public%20Repos&query=%24.public_repos&color=blue&style=for-the-badge)](https://github.com/nidhidhameliya?tab=repositories)
 
 </div>
 

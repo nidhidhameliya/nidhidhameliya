@@ -76,6 +76,7 @@ print(me.get_mission())
 | Project | What is it? | Tech I Used |
 | :--- | :--- | :--- |
 | 🧠 **[AI Research Assistant](https://github.com/nidhidhameliya/AI-Research-Assistant)** *(in progress)* | An end-to-end RAG platform — upload documents or index GitHub repos, ask questions with source citations, compare documents side-by-side, and track quality metrics. | `FastAPI` `Next.js` `ChromaDB` `Groq LLaMA` `BM25` |
+| 🛠️ **[MLOps Learning](https://github.com/nidhidhameliya/MLOps-learning)** *(in progress)* | A structured MLOps learning journey covering ML pipelines, experiment tracking, model deployment, Docker, CI/CD, GitHub workflows, and production machine learning practices. | `Python` `MLflow` `Docker` `GitHub Actions` `FastAPI` `Cloud Deployment` |
 | 🗄️ **[DataDesk](https://github.com/nidhidhameliya/DataDesk)** | A browser-based SQL practice platform for interview prep, running entirely in-browser on WebAssembly SQLite with guided questions, ER diagrams, and progress tracking. | `React` `sql.js` `Monaco Editor` `Supabase` `WebAssembly` |
 | 🌦️ **[Climate-Forecasting](https://github.com/nidhidhameliya/Climate-Forecasting)** | Forecasting ERA5 climate variables using ConvLSTM, CNN-LSTM, and Transformer models. | `Python` `PyTorch` `Deep Learning` |
 | 📈 **[Hospitality Domain Power BI Dashboard](https://github.com/nidhidhameliya/Hospitality_Domain_PowrBi-Dashboard)** | An interactive Power BI dashboard analyzing data from the hospitality domain. | `Power BI` `DAX` `Data Visualization` |

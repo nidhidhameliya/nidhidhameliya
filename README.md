@@ -114,17 +114,21 @@ print(me.get_mission())
 
 <br><br>
 
-### 🔥 Contribution Streak
+### 🔥 GitHub Contribution Streak
 
-<img width="100%" src="https://streak-stats.demolab.com?user=nidhidhameliya&theme=radical&hide_border=true" />
+<img width="100%" src="https://streak-stats.demolab.com?user=nidhidhameliya&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <br><br>
 
-### 📈 Contribution Activity
+### 📈 GitHub Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nidhidhameliya&theme=radical&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nidhidhameliya&theme=radical&hide_border=true&area=true&custom_title=Daily%20Contribution%20Activity" />
 
-</div>
+<br><br>
+
+### 🟩 GitHub Contribution Calendar
+
+<img width="100%" src="https://ghchart.rshah.org/radical/nidhidhameliya" />
 
 ---
 

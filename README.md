@@ -126,9 +126,6 @@ print(me.get_mission())
 
 <br><br>
 
-### 🟩 GitHub Contribution Calendar
-
-<img width="100%" src="https://ghchart.rshah.org/radical/nidhidhameliya" />
 
 ---
 

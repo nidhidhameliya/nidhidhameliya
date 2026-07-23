@@ -108,9 +108,11 @@ print(me.get_mission())
 
 ### 🚀 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nidhidhameliya&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nidhidhameliya&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nidhidhameliya&layout=compact&langs_count=10&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nidhidhameliya&layout=compact&langs_count=10&theme=radical&hide_border=true&exclude_repo=repository1,repository2&hide=Jupyter%20Notebook" />
+</p>
 
 <br><br>
 
